@@ -23,3 +23,4 @@ def register(user: User):
     user_dict[user.student_id]=user.name
     return {"message" : "register succussfully"}
 #1
+#2
